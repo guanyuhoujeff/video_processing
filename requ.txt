@@ -1,0 +1,3 @@
+# jupyterlab use conda install
+jupyterlab-widgets
+opencv-python
